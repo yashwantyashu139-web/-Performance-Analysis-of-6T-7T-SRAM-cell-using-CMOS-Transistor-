@@ -50,8 +50,7 @@ How to Run the Project
 3. Run the simulation.
 4. Observe voltage waveforms and performance parameters.
 
-Author
-Prajwal BG
-
+Author 
+Yashwanth P
 License
 This project is intended for academic and educational purposes only.
